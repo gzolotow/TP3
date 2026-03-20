@@ -1,0 +1,127 @@
+[
+  {
+    "id": 1,
+    "nombre": "Mouse",
+    "precio": 1500
+  },
+  {
+    "id": 2,
+    "nombre": "Teclado",
+    "precio": 3500
+  },
+  {
+    "id": 3,
+    "nombre": "Monitor",
+    "precio": 120000
+  },
+  {
+    "id": 4,
+    "nombre": "Auriculares",
+    "precio": 18000
+  },
+  {
+    "id": 5,
+    "nombre": "Webcam",
+    "precio": 22000
+  },
+  {
+    "id": 6,
+    "nombre": "Parlantes",
+    "precio": 15000
+  },
+  {
+    "id": 7,
+    "nombre": "Mousepad",
+    "precio": 2000
+  },
+  {
+    "id": 8,
+    "nombre": "Hub USB",
+    "precio": 9500
+  },
+  {
+    "id": 9,
+    "nombre": "Disco SSD 500GB",
+    "precio": 65000
+  },
+  {
+    "id": 10,
+    "nombre": "Disco SSD 1TB",
+    "precio": 120000
+  },
+  {
+    "id": 11,
+    "nombre": "Memoria RAM 8GB",
+    "precio": 32000
+  },
+  {
+    "id": 12,
+    "nombre": "Memoria RAM 16GB",
+    "precio": 58000
+  },
+  {
+    "id": 13,
+    "nombre": "Teclado Mecánico",
+    "precio": 45000
+  },
+  {
+    "id": 14,
+    "nombre": "Mouse Gamer",
+    "precio": 12000
+  },
+  {
+    "id": 15,
+    "nombre": "Monitor 24 pulgadas",
+    "precio": 210000
+  },
+  {
+    "id": 16,
+    "nombre": "Monitor 27 pulgadas",
+    "precio": 320000
+  },
+  {
+    "id": 17,
+    "nombre": "Placa de Video RTX 4060",
+    "precio": 850000
+  },
+  {
+    "id": 18,
+    "nombre": "Fuente 650W",
+    "precio": 78000
+  },
+  {
+    "id": 19,
+    "nombre": "Gabinete ATX",
+    "precio": 95000
+  },
+  {
+    "id": 20,
+    "nombre": "Cámara Web HD",
+    "precio": 25000
+  },
+  {
+    "id": 21,
+    "nombre": "Micrófono USB",
+    "precio": 42000
+  },
+  {
+    "id": 22,
+    "nombre": "Soporte para Monitor",
+    "precio": 30000
+  },
+  {
+    "id": 23,
+    "nombre": "Tablet Gráfica",
+    "precio": 110000
+  },
+  {
+    "id": 24,
+    "nombre": "Monitor 32 pulgadas",
+    "precio": 380000
+  },
+  {
+    "id": 25,
+    "nombre": "Notebook",
+    "precio": 500000
+  }
+]

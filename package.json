@@ -1,0 +1,24 @@
+{
+  "name": "tp3",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/gzolotow/TP3#readme",
+  "bugs": {
+    "url": "https://github.com/gzolotow/TP3/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gzolotow/TP3.git"
+  },
+  "license": "ISC",
+  "author": "gael y julian",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.13.6",
+    "dayjs": "^1.11.20"
+  }
+}
