@@ -123,5 +123,10 @@
     "id": 25,
     "nombre": "Notebook",
     "precio": 500000
+  },
+  {
+    "id": 26,
+    "nombre": "Notebook",
+    "precio": 500000
   }
 ]
